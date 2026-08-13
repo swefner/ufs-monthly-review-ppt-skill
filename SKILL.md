@@ -46,6 +46,7 @@ Use Guided Mode unless the user explicitly asks to build immediately:
 ## Asset Use
 
 - Use `assets/reference-decks/nanchong-april-review.pptx` and `nanchong-june-review.pptx` as UFS monthly review examples.
+- Use `assets/templates/nanchong-456-monthly-review-master-template.pptx` as the consolidated Nanchong April-May-June monthly review template. Read `assets/templates/nanchong-456-template-index.md` for source-month slide ranges.
 - Use `assets/reference-decks/xian-yaosheng-co-creation.pptx` as the strategic co-creation / terminal-store advancement reference.
 - Use `assets/reference-decks/cherry-red-logic-components.pptx` only as an optional component library.
 - Do not treat online partner sites as primary data sources. Use them only as system口径 references unless the user provides login/exported data.
